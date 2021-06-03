@@ -1,4 +1,4 @@
-# Project 5
+# VR Space Jam
 
 ## Submitted by: Pratik, Paige, Changze, & Nicole
 
@@ -16,6 +16,5 @@ Demo Video: https://drive.google.com/file/d/1_erSUWqba0K-9JGxfTumLgYKQPc4rilw/vi
     <li> You'll have 10 rounds in the tutorial section where the score is not tracked.
     <li> The main game itself is 20 rounds. 
     <li> After the game ends, it'll reset the scene.
-    <li> To submit results, on Sidequest go to "Manage files on headset", then Android > Data > com.DefaultCompany.VRTEST > files. You'll find a "results.txt" files there. Press the floppy disk "save" icon and choose a location in which it is easy to recover.
-    <li> Finally, fill out this google form ( <a href="https://forms.gle/JTFuKaxK7Mx88gEw7">link</a> ) where you'll have to submit certain statistics and the "results.txt" file. Please be honest with your results!  
+    <li> To submit results, on Sidequest go to "Manage files on headset", then Android > Data > com.DefaultCompany.VRTEST > files. You'll find a "results.txt" files there. Press the floppy disk "save" icon and choose a location in which it is easy to recover. 
 </ol>
