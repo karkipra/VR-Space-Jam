@@ -18,3 +18,7 @@ Demo Video: https://drive.google.com/file/d/1_erSUWqba0K-9JGxfTumLgYKQPc4rilw/vi
     <li> After the game ends, it'll reset the scene.
     <li> To submit results, on Sidequest go to "Manage files on headset", then Android > Data > com.DefaultCompany.VRTEST > files. You'll find a "results.txt" files there. Press the floppy disk "save" icon and choose a location in which it is easy to recover. 
 </ol>
+
+## Final Paper
+
+Results of our experiment can be found at "Final Paper.pdf"
